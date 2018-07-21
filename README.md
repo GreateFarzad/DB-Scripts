@@ -19,5 +19,5 @@ display them.
 
 ## History
 
-TODO: In Case of Having Lart amount of Tables please use schema namse to do in 
+TODO: In Case of Having Large amount of Tables please use schema name to do in 
 seperate and small scales.
